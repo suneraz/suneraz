@@ -49,3 +49,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
   </a>
 </p>
+
+---
+<div align="center">
+  
+![snake gif](https://github.com/suneraz/suneraz/blob/output/github-snake-dark.svg)
+</div>
+
+
+
+
