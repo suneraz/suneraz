@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Web Based Hotel Management System**
+- 🔭 I’m currently working on **Web Based Hotel Reservation System**
 
 - 🌱 I’m an Undergraduate at **ICBT Campus**
 
