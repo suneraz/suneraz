@@ -14,11 +14,11 @@
 
 ### 🚀 About Me
 ```yaml
-name:        Sunera Nawod
-education:   Undergraduate @ ICBT Campus
-currently working on:     Web Based Hotel Reservation System
-contact:     sunerar.2002@gmail.com
-fun fact:    Call me solo
+name        :   Sunera Nawod
+education   :   Undergraduate @ ICBT Campus
+building    :   Web Based Hotel Reservation System
+contact     :   sunerar.2002@gmail.com
+fun fact    :   Call me solo
 ```
 
 ---
