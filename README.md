@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00e5ff&height=120&section=header&text=&animation=fadeIn"/>
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0d1117&height=100&section=header"/>
 </div>
 
 <h1 align="center">
@@ -53,6 +53,6 @@ fun fact    :   Call me solo
   <img src="https://github.com/suneraz/suneraz/blob/output/github-snake-dark.svg"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0d1117&height=80&section=footer"/>
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0d1117&height=100&section=footer"/>
 </div>
