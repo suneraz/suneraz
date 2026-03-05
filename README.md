@@ -16,7 +16,7 @@
 ```yaml
 name:        Sunera Nawod
 education:   Undergraduate @ ICBT Campus
-current:     Web Based Hotel Reservation System
+currently working on:     Web Based Hotel Reservation System
 contact:     sunerar.2002@gmail.com
 fun fact:    Call me solo
 ```
