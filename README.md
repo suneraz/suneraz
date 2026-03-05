@@ -1,61 +1,58 @@
-<h1 align="center">Hi 👋, I'm Sunera Nawod</h1>
-<h3 align="left">Building practical web applications while continuously improving my skills.</h3>
-
----
-
-- 🔭 I’m currently working on **Web Based Hotel Reservation System**
-
-- 🌱 I’m an Undergraduate at **ICBT Campus**
-
-- 📫 How to reach me **sunerar.2002@gmail.com**
-
-- ⚡ Fun fact **Call me solo**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">🛠️ Languages & Tools</h3>
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/>
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
-  </a>
-</p>
-
----
 <div align="center">
-  
-![snake gif](https://github.com/suneraz/suneraz/blob/output/github-snake-dark.svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00e5ff&height=120&section=header&text=&animation=fadeIn"/>
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunera+Nawod" alt="Typing SVG"/>
+</h1>
 
+<p align="center">
+  <em>Building practical web applications while continuously improving my skills.</em>
+</p>
 
+---
 
+### 🚀 About Me
+```yaml
+name:        Sunera Nawod
+education:   Undergraduate @ ICBT Campus
+current:     Web Based Hotel Reservation System
+contact:     sunerar.2002@gmail.com
+fun fact:    Call me solo
+```
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 🌐 Frontend
+<p align="left">
+  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/></a>&nbsp;
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/></a>
+</p>
+
+#### 💻 Languages
+<p align="left">
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/></a>&nbsp;
+  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter"/></a>&nbsp;
+  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="48" alt="Dart"/></a>&nbsp;
+  <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/></a>
+</p>
+
+#### 🗄️ Databases & Backend
+<p align="left">
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase"/></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/suneraz/suneraz/blob/output/github-snake-dark.svg"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0d1117&height=80&section=footer"/>
+</div>
