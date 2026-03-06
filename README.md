@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0d1117&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0d1117&height=95&section=header"/>
 </div>
 
 <h1 align="center">
@@ -54,5 +54,5 @@ fun fact    :   Call me solo
 </div>
 
 <div align="right">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0d1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0d1117&height=95&section=footer"/>
 </div>
