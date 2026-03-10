@@ -16,7 +16,7 @@
 ```yaml
 name        :   Sunera Nawod
 education   :   Undergraduate @ ICBT Campus
-building    :   Web Based Hotel Reservation System
+building    :   Automated Polymarket Prediction Market Bot
 contact     :   sunerar.2002@gmail.com
 fun fact    :   Call me solo
 ```
